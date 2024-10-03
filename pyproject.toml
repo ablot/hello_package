@@ -9,7 +9,11 @@ description = "A package to perform complex analysis"
 authors = [
 { name="Example Author", email="author@example.com" },
 ]
+dependencies = ["numpy<2.0",
+        "matplotlib>=3.4",
+    ]
 
 [tool.setuptools.packages.find]
 include = ["hello_package*"]
 exclude = ["notebooks"]
+
