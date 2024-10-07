@@ -9,6 +9,9 @@ for d in data:
 print(results)
 
 
+bootcamp.main.print_print()
+
+
 bootcamp.main.hello_petr()
 
 
