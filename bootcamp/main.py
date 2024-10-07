@@ -24,6 +24,9 @@ def hello_ayesha():
 def print_print():
 	print("print")
 
+def hello_yikai():
+    print('Hello, Yikai!')
+
 def hello_chenyue():
     print("Hello, Chenyue!")
 
