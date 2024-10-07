@@ -1,5 +1,6 @@
 from bootcamp.submodule import compute
 
+
 def complex_analysis(data, offset=1):
     """Perform a complex analysis on the data and return the result
 
@@ -11,5 +12,8 @@ def complex_analysis(data, offset=1):
         array: The result of the analysis
     """
 
- 
     return compute.computit(data, offset)
+
+
+def hello_petr():
+    print("Hello, Petr!")
