@@ -15,6 +15,9 @@ def complex_analysis(data, offset=1):
  
     return compute.computit(data, offset)
 
+def hello_megan():
+    print("Hello, Megan!")
+
 def hello_ayesha():
     print("hello ayesha")
 
