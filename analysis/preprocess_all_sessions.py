@@ -1,6 +1,6 @@
 import bootcamp.main
-
-data = [1, 2, 3, 4, 5]
+#changed data
+data = [4, 2, 3, 4, 5]
 results = []
 for d in data:
     results.append(bootcamp.main.complex_analysis(d, 3))
