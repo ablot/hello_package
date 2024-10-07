@@ -36,3 +36,4 @@ def james_function():
 def hello_petr():
     print("Hello, Petr!")
 
+
