@@ -13,3 +13,6 @@ def complex_analysis(data, offset=1):
 
  
     return compute.computit(data, offset)
+
+def james_function():
+    print('James was here')
