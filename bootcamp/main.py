@@ -13,3 +13,7 @@ def complex_analysis(data, offset=1):
 
  
     return compute.computit(data, offset)
+
+
+def hello_chenyue():
+    print("Hello, Chenyue!")
